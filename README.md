@@ -1,2 +1,2 @@
 # brain_segmentation_age_regression
-Two DL-based age regression approaches
+Two DL-based age regression approaches.
